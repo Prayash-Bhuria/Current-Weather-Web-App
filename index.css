@@ -1,0 +1,21 @@
+.search
+{
+    height: 100px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+
+
+
+.input-group
+{
+    width: 50vw;
+    height: 50%;
+}
+
+@media(max-width:350px)
+{
+ 
+
+}
