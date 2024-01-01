@@ -35,7 +35,7 @@ Ensure you have a modern web browser installed.
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/weather-app.git`
+1. Clone the repository: `git clone https://github.com/Prayash-Bhuria/Weather-App.git`
 2. Open `index.html` in your preferred browser.
 
 ## Usage
